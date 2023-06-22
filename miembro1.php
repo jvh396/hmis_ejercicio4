@@ -32,9 +32,8 @@
                     </div>
                     <div class="seccion1der">
                         <ol><b>Enlaces de Interés</b></ol>
-			<ol> <a href="https://github.com/jvh396/hmis_ejercicio4" > Git Desarrollador</a></ol>
-			<ol> <a href="https://docs.github.com/es/get-started/quickstart/contributing-to-projects"> Forkear un proyecto en Github </a> </ol>
-			<ol> <a href="miembro1.php" > Web Colaborador</a></ol>			
+			<ol> <a href="https://github.com/juandyvalverde/hmis_ejercicio4" > Git Colaborador</a></ol>
+			
                     </div>
             </div>
 
